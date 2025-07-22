@@ -11,5 +11,5 @@
 Dans Votre Executeur : 
 
 ```bash
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Napixx/SchoolRpFrCheat/main/src/Script/Main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Napixx/FractureScript/blob/main/Hub/v1/Loader.lua"))()
 ```
