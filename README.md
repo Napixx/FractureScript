@@ -8,6 +8,9 @@ Une courte description de ce que fait le projet.
 
 ## 📦 Installation
 
+## 📦 Installation
+## 📦 Installation
+
 ```bash
 git clone https://github.com/mon-utilisateur/mon-projet.git
 cd mon-projet
